@@ -1,0 +1,11 @@
+/* Style for toggled header */
+.toggled {
+    color: blue;
+    font-weight: bold;
+}
+
+/* Basic button styling */
+button {
+    margin: 10px;
+    padding: 10px 15px;
+}
